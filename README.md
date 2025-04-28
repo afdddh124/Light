@@ -1,8 +1,8 @@
 body{
-  min-height: 100vh
+  min-height:100vh
   display:flex
 align-items:center
-background: var(--bg)
+background:var(--bg)
 }
 .toggle-scene{
   overflow visible:!important
